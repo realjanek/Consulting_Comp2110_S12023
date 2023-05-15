@@ -115,3 +115,4 @@ We are currently aiming to work on x widgets each.
 * Student 1: Nice Widget, Random Widget
 * Student 2: Weird Widget, My Widget
 * Student 3: ToBeOrNotToBe Widget, TODO Task Widget
+* Student The Best: nothing to do
